@@ -1961,7 +1961,7 @@ hr {
   opacity: 0.9;
 }
 .cid-rR8qj3Lr1I .navbar.navbar-short .navbar-logo img {
-  height: 4.5rem !important;
+  height: 5.5rem !important;
 }
 .cid-rR8qj3Lr1I .navbar.navbar-short .navbar-brand {
   padding: 0;
@@ -2431,6 +2431,38 @@ hr {
 }
 .cid-sT4SjxKOGl .mbr-text,
 .cid-sT4SjxKOGl .mbr-section-btn {
+  text-align: right;
+}
+.cid-th26TmYV7P {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-th26TmYV7P .card-heading {
+  padding-bottom: 30px;
+  color: #000000;
+  text-align: right;
+}
+.cid-th26TmYV7P .top {
+  padding-top: 0;
+}
+.cid-th26TmYV7P .row {
+  justify-content: center;
+  display: flex;
+}
+.cid-th26TmYV7P a {
+  font-weight: 400 !important;
+}
+.cid-th26TmYV7P .mbr-text {
+  color: #333333;
+}
+.cid-th26TmYV7P .mbr-text1 {
+  padding-top: 30px;
+}
+.cid-th26TmYV7P .top1 {
+  padding-top: 30px;
+}
+.cid-th26TmYV7P .p {
   text-align: right;
 }
 .cid-t1bKSU8wlb {
